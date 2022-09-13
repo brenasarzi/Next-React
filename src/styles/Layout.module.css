@@ -1,0 +1,27 @@
+.cabecalho{
+    background: black;
+    display: flex;
+    justify-content: flex;
+    padding: 10px;
+}
+.layout h1{
+    text-align: center;
+}
+.cabecalho a{
+    border: 2px solid pink;
+    padding: 5px;
+}
+.cabecalho a:hover{
+    background-color: rgb(53, 53, 53);
+    color: pink;
+}
+.home{
+    background-color: rgb(53, 53, 53);
+    color: pink;
+    text-align: center;
+}
+
+.cabecalho h1{
+    font-size: 14px;    
+    padding: 0px 20px;
+}
